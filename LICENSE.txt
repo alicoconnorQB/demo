@@ -1,7 +1,5 @@
-# LICENSE
+# LICENSE New update
 
 ## Apache 2.0
 
 OKAY
-
-New update

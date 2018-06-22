@@ -1,2 +1,3 @@
 # one pattern or expression per line
 *.log
+*.orig
